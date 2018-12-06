@@ -4,7 +4,7 @@ body {
   font-family: Verdana;
 }
 
-h1 {
+.header--main {
   font-weight: normal;
   font-size: 50px;
   color: white;
@@ -13,4 +13,15 @@ h1 {
 .link--cta {
   color: aquamarine;
   font-size: 16px;
+}
+
+.header--secondary {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.description {
+  color: gray;
+  font-size: 21px;
 }
